@@ -5,5 +5,5 @@ Another contributor: [ruoshuichengyang](https://github.com/ruoshuichengyang)
 
 The project is still being organized.
 
-Thank for these great projects: [MMSegmentation](https://github.com/open-mmlab/mmsegmentation), [ViT-Adapter](https://github.com/czczup/ViT-Adapter) and [SSA](https://github.com/fudan-zvg/Semantic-Segment-Anything).
+Thank for these great projects: [MMSegmentation](https://github.com/open-mmlab/mmsegmentation), [InternImage](https://github.com/OpenGVLab/InternImage), [ViT-Adapter](https://github.com/czczup/ViT-Adapter) and [SSA](https://github.com/fudan-zvg/Semantic-Segment-Anything).
 
